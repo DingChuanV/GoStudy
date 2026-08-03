@@ -14,3 +14,6 @@ coverage.out
 bin/
 dist/
 tmp/
+
+.sisyphus
+/.sisyphus/
